@@ -1,0 +1,14 @@
+/home/fann/Documents/Belajar/C#/Program/bin/Debug/net8.0/Program
+/home/fann/Documents/Belajar/C#/Program/bin/Debug/net8.0/Program.deps.json
+/home/fann/Documents/Belajar/C#/Program/bin/Debug/net8.0/Program.runtimeconfig.json
+/home/fann/Documents/Belajar/C#/Program/bin/Debug/net8.0/Program.dll
+/home/fann/Documents/Belajar/C#/Program/bin/Debug/net8.0/Program.pdb
+/home/fann/Documents/Belajar/C#/Program/obj/Debug/net8.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/fann/Documents/Belajar/C#/Program/obj/Debug/net8.0/Program.AssemblyInfoInputs.cache
+/home/fann/Documents/Belajar/C#/Program/obj/Debug/net8.0/Program.AssemblyInfo.cs
+/home/fann/Documents/Belajar/C#/Program/obj/Debug/net8.0/Program.csproj.CoreCompileInputs.cache
+/home/fann/Documents/Belajar/C#/Program/obj/Debug/net8.0/Program.dll
+/home/fann/Documents/Belajar/C#/Program/obj/Debug/net8.0/refint/Program.dll
+/home/fann/Documents/Belajar/C#/Program/obj/Debug/net8.0/Program.pdb
+/home/fann/Documents/Belajar/C#/Program/obj/Debug/net8.0/Program.genruntimeconfig.cache
+/home/fann/Documents/Belajar/C#/Program/obj/Debug/net8.0/ref/Program.dll

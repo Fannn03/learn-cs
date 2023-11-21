@@ -1,0 +1,14 @@
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.AssemblyInfoInputs.cache
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.AssemblyInfo.cs
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.csproj.CoreCompileInputs.cache
+/home/fann/Documents/Belajar/C#/Casting/bin/Debug/net8.0/Casting
+/home/fann/Documents/Belajar/C#/Casting/bin/Debug/net8.0/Casting.deps.json
+/home/fann/Documents/Belajar/C#/Casting/bin/Debug/net8.0/Casting.runtimeconfig.json
+/home/fann/Documents/Belajar/C#/Casting/bin/Debug/net8.0/Casting.dll
+/home/fann/Documents/Belajar/C#/Casting/bin/Debug/net8.0/Casting.pdb
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.dll
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/refint/Casting.dll
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.pdb
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.genruntimeconfig.cache
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/ref/Casting.dll
