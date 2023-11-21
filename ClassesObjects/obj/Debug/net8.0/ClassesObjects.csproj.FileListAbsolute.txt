@@ -1,0 +1,15 @@
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/ClassesObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/ClassesObjects.AssemblyInfoInputs.cache
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/ClassesObjects.AssemblyInfo.cs
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/ClassesObjects.csproj.CoreCompileInputs.cache
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/ClassesObjects.sourcelink.json
+/home/fann/Documents/Belajar/C#/ClassesObjects/bin/Debug/net8.0/ClassesObjects
+/home/fann/Documents/Belajar/C#/ClassesObjects/bin/Debug/net8.0/ClassesObjects.deps.json
+/home/fann/Documents/Belajar/C#/ClassesObjects/bin/Debug/net8.0/ClassesObjects.runtimeconfig.json
+/home/fann/Documents/Belajar/C#/ClassesObjects/bin/Debug/net8.0/ClassesObjects.dll
+/home/fann/Documents/Belajar/C#/ClassesObjects/bin/Debug/net8.0/ClassesObjects.pdb
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/ClassesObjects.dll
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/refint/ClassesObjects.dll
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/ClassesObjects.pdb
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/ClassesObjects.genruntimeconfig.cache
+/home/fann/Documents/Belajar/C#/ClassesObjects/obj/Debug/net8.0/ref/ClassesObjects.dll
