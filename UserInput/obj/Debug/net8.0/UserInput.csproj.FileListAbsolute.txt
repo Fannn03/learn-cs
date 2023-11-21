@@ -1,0 +1,15 @@
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/UserInput.AssemblyInfoInputs.cache
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/UserInput.AssemblyInfo.cs
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/UserInput.csproj.CoreCompileInputs.cache
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/UserInput.sourcelink.json
+/home/fann/Documents/Belajar/C#/UserInput/bin/Debug/net8.0/UserInput
+/home/fann/Documents/Belajar/C#/UserInput/bin/Debug/net8.0/UserInput.deps.json
+/home/fann/Documents/Belajar/C#/UserInput/bin/Debug/net8.0/UserInput.runtimeconfig.json
+/home/fann/Documents/Belajar/C#/UserInput/bin/Debug/net8.0/UserInput.dll
+/home/fann/Documents/Belajar/C#/UserInput/bin/Debug/net8.0/UserInput.pdb
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/UserInput.dll
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/refint/UserInput.dll
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/UserInput.pdb
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/UserInput.genruntimeconfig.cache
+/home/fann/Documents/Belajar/C#/UserInput/obj/Debug/net8.0/ref/UserInput.dll
