@@ -12,3 +12,4 @@
 /home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.pdb
 /home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.genruntimeconfig.cache
 /home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/ref/Casting.dll
+/home/fann/Documents/Belajar/C#/Casting/obj/Debug/net8.0/Casting.sourcelink.json
