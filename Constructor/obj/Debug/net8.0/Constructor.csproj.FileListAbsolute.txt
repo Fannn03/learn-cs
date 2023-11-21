@@ -1,0 +1,15 @@
+/home/fann/Documents/Belajar/C#/Constructor/bin/Debug/net8.0/Constructor
+/home/fann/Documents/Belajar/C#/Constructor/bin/Debug/net8.0/Constructor.deps.json
+/home/fann/Documents/Belajar/C#/Constructor/bin/Debug/net8.0/Constructor.runtimeconfig.json
+/home/fann/Documents/Belajar/C#/Constructor/bin/Debug/net8.0/Constructor.dll
+/home/fann/Documents/Belajar/C#/Constructor/bin/Debug/net8.0/Constructor.pdb
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/Constructor.AssemblyInfoInputs.cache
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/Constructor.AssemblyInfo.cs
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/Constructor.csproj.CoreCompileInputs.cache
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/Constructor.sourcelink.json
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/Constructor.dll
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/refint/Constructor.dll
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/Constructor.pdb
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/Constructor.genruntimeconfig.cache
+/home/fann/Documents/Belajar/C#/Constructor/obj/Debug/net8.0/ref/Constructor.dll
