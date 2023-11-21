@@ -1,0 +1,15 @@
+/home/fann/Documents/Belajar/C#/String/bin/Debug/net8.0/String
+/home/fann/Documents/Belajar/C#/String/bin/Debug/net8.0/String.deps.json
+/home/fann/Documents/Belajar/C#/String/bin/Debug/net8.0/String.runtimeconfig.json
+/home/fann/Documents/Belajar/C#/String/bin/Debug/net8.0/String.dll
+/home/fann/Documents/Belajar/C#/String/bin/Debug/net8.0/String.pdb
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/String.AssemblyInfoInputs.cache
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/String.AssemblyInfo.cs
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/String.csproj.CoreCompileInputs.cache
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/String.sourcelink.json
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/String.dll
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/refint/String.dll
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/String.pdb
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/String.genruntimeconfig.cache
+/home/fann/Documents/Belajar/C#/String/obj/Debug/net8.0/ref/String.dll
