@@ -1,0 +1,15 @@
+/home/fann/Documents/Belajar/C#/Inheritance/bin/Debug/net8.0/Inheritance
+/home/fann/Documents/Belajar/C#/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/home/fann/Documents/Belajar/C#/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/home/fann/Documents/Belajar/C#/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/home/fann/Documents/Belajar/C#/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/home/fann/Documents/Belajar/C#/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll
